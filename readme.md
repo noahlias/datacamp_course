@@ -1,9 +1,11 @@
 # DataCampCourse
 
+This is a course to learn **DataSicence** in [**DataCamp**](https://app.datacamp.com/)
+
 ## PortfolioRiskManagement
 
-This is a course to learn **PortfolioRiskManagement** in [**DataCamp**](https://app.datacamp.com/)
+[**PortFolioRisk**](portfolio_risk_management.ipynb)
 
 ## Data-Manipulation-With-Pandas
 
-[**LearnPanda**](data-manipulation-with-pandas.ipynb)
+[**LearnPandas**](data-manipulation-with-pandas.ipynb)
