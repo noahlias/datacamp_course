@@ -121,7 +121,8 @@ total_week
 
 total_poker > total_roulette
 
-
+library(data.table)
+set.seed(123)
 # Define a new variable based on a selection
 poker_wednesday <- poker_vector[3]
 
